@@ -47,7 +47,7 @@ function Portfilio() {
           <span className="underline font-semibold">Featured Project</span>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-3">
             {cardItem.map((data)=>{
-                return <div key={data.id} className="shadow-md p-3 rounded-2xl overflow-hidden">
+                return <div key={data.id} className="shadow-md p-3 lg:pb-10 rounded-2xl overflow-hidden">
                     <img src={data.img} alt="" className="w-full sm:h-[55%] rounded-t-2xl" />
                     <h2 className="mt-2 font-bold text-2xl text-blue-600">{data.name}</h2>
                     <p className="text-gray-500 font-semibold">{data.about}</p>
