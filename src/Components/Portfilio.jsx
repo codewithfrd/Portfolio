@@ -6,17 +6,18 @@ function Portfilio() {
     {
       id: 1,
       img: "https://i.ytimg.com/vi/G0jO8kUrg-I/maxresdefault.jpg",
-      name: "fronted",
+      name: "Todo List",
       path: "https://radiant-marigold-8db9d8.netlify.app/",
       about:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro fugit ea voluptatem tempore.",
     },
     {
       id: 2,
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWfAMqYUeUgrwTviq35mWCp3mdaK34mLtOA&s",
-      name: "fronted",
+      img: "https://uizard.io/static/2dadbc6e1470cf063e80f38840d0d92f/a8e47/e5e727584926383c6fb465f443dd7371c3beb6bf-1440x835.png",
+      name: "Weather",
+      path: 'https://helpful-otter-a9caaf.netlify.app/',
       about:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro fugit ea voluptatem tempore.",
+        "simple weather app showing temp - humidity & widespeed",
     },
     {
       id: 3,
