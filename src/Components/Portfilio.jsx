@@ -5,7 +5,7 @@ function Portfilio() {
   const cardItem = [
     {
       id: 1,
-      img: "https://incomparable-heliotrope-c53d76.netlify.app/",
+      img: "https://foolishdeveloper.com/wp-content/uploads/2021/11/todo-list-javascript.jpg",
       name: "Todo List",
       path: "https://radiant-marigold-8db9d8.netlify.app/",
       about:
